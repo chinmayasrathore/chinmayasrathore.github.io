@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: Some research publicaions
+description: Some research publications
 nav: true
 nav_order: 3
 ---
@@ -15,6 +15,6 @@ Dwivedi, Puneet, et al. ‘Ecological Benefits of Urban Forestry: The Case of Ke
 
 Rathore, Chinmaya S., and Ram Prasad. "Trees Outside Forests Resource Study and Management: Assssment Methodologies and Institutional Approaches in India", in *Proceedings of the Expert Consulation on Enhancing the Contribution of Trees Outside Forests to Sustainable Livelihoods* eds Syaka Sadio, Christoph Kleinn and Tage Michaelsen, Food and Agriculture Organization of the UN (FAO), Rome, 26-28 November, 2001. [[PDF]](/assets/pdf/tof-fao-rome-2001.zip)
 
-Rathore, C. S., and R. Wright. ‘Monitoring Environmental Impacts of Surface Coal Mining’. International Journal of Remote Sensing, vol. 14, no. 6, Apr. 1993, pp. 1021–42.
-
 Rathore,C.S. 'Use of a Model Aircraft for Rapid Low Cost Aerial Monitoring and Management of Forest Resources and Environment'. Indian Forester, vol. 125, No. 3, 1999. pp.285-292.
+
+Rathore, C. S., and R. Wright. ‘Monitoring Environmental Impacts of Surface Coal Mining’. International Journal of Remote Sensing, vol. 14, no. 6, Apr. 1993, pp. 1021–42.
