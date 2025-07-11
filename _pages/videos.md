@@ -4,7 +4,7 @@ permalink: /videos/
 title: tutorials
 description: my tutorial videos
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ### Tutorial Videos
