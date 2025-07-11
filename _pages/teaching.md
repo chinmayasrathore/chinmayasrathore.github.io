@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I have taught over the years.
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I love teaching ! Some of the courses that I have taught over the years include:
+- Geographic Information Systems
+- Satellite Remote Sensing
+- Basic Computing and Data Handing
+- Management Information Systems
+- Environmental Modelling and Impact Assessment
+- E-Governance
+- Systems Thinking
+- Computer Programming 
