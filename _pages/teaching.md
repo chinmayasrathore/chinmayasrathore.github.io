@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses I have taught over the years.
+description: courses I have taught over the years.
 nav: true
 nav_order: 2
 ---
