@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am Chinmaya S. Rathore hand I have around four decades of teaching, research, consulting and academic administration experience in higher education. I have served as Professor and Dean at the Indian Institute of Forest Management, Bhopal, India in the faculty of Information Technology and Quantitative Techniques. I have also served as a faculty member at the Indian Institute of Technology, Dhanbad, India. 
+Hi! I am Chinmaya and I have around four decades of teaching, research, consulting and academic administration experience in higher education. I have served as Professor and Dean at the Indian Institute of Forest Management, Bhopal, India in the faculty of Information Technology and Quantitative Techniques. I have also served as a faculty member at the Indian Institute of Technology, Dhanbad, India. 
 
 I have been a Leverhulme postdoctoral fellow at the University of Aberdeen, Scotland UK and have consulted for FAO, DFID and other agencies. I love teaching and have been and educator for close to four decades.
 
