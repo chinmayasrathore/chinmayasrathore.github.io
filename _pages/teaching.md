@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-I love teaching ! Some of the courses that I have taught over the years include:
+I love teaching ! Some of the courses that I have taught include:
 - Geographic Information Systems
 - Satellite Remote Sensing
 - Basic Computing and Data Handing
