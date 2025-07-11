@@ -13,7 +13,7 @@ Rathore, Chinmaya S., et al. ‘Opportunities of Habitat Connectivity for Tiger 
 
 Dwivedi, Puneet, et al. ‘Ecological Benefits of Urban Forestry: The Case of Kerwa Forest Area (KFA), Bhopal, India’. Applied Geography, vol. 29, no. 2, Apr. 2009, pp. 194–200. ScienceDirect, https://doi.org/10.1016/j.apgeog.2008.08.008 [[ Read Section Snippets]](https://www.sciencedirect.com/science/article/abs/pii/S0143622808000507?via%3Dihub)
 
-Rathore, Chinmaya S., and Ram Prasad. "Trees Outside Forests Resource Study and Management: Assssment Methodologies and Institutional Approaches in India", in *Proceedings of the Expert Consulation on Enhancing the Contribution of Trees Outside Forests to Sustainable Livelihoods* eds Syaka Sadio, Christoph Kleinn and Tage Michaelsen, Food and Agriculture Organization of the UN (FAO), Rome, 26-28 November, 2001. [[PDF]](/assets/pdf/tof-fao-rome-2001.zip)
+Rathore, Chinmaya S., and Ram Prasad. "Trees Outside Forests Resource Study and Management: Assssment Methodologies and Institutional Approaches in India", in *Proceedings of the Expert Consulation on Enhancing the Contribution of Trees Outside Forests to Sustainable Livelihoods* eds Syaka Sadio, Christoph Kleinn and Tage Michaelsen, Food and Agriculture Organization of the UN (FAO), Rome, 26-28 November, 2001. [[PDF]](/assets/pdf/tof-fao-rome-2001.pdf)
 
 Rathore,C.S. 'Use of a Model Aircraft for Rapid Low Cost Aerial Monitoring and Management of Forest Resources and Environment'. Indian Forester, vol. 125, No. 3, 1999. pp.285-292.
 
