@@ -100,6 +100,7 @@ DIPS is primarily aimed at introductory digital image processing courses in remo
  - Computation of Error Matrix and % Correct
  - Omission and Commission Errors
  - Computation of Kappa Statistic
-
+   
+***
 
 {% endraw %}
