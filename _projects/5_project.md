@@ -1,24 +1,13 @@
 ---
 layout: page
-title: project 5
+title: DIPS - Digital Image Processing Simulator
 description: a project with a background image
-img: assets/img/1.jpg
+img: 
 importance: 3
-category: fun
+category: Software
 ---
+The Digital Image Processing Simulator (DIPS) is an interactive Digital Image Processing learning tool for Windows XP/7/8/10/11. DIPS covers a core body of Digital Image Processing concepts which are usually taught in Remote Sensing courses and are critical to the understanding of image analaysis. DIPS tries to bridge a learning gap between classroom explanations of concepts and their demonstration on the image processing system. It has been designed in a way that it can be shared between the student and the teacher.It can be used by the teacher to conveniently explain difficult to understand image processing concepts during a lecture, while it can also be used by the student to follow up concepts explained in the class.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
