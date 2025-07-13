@@ -46,6 +46,7 @@ Unzip after downloading and use the files to solve tasks given at the end of boo
 ### Errata Page
 
 The errata page is current and is updated as soon as some issue is spotted.
+
 👉 [Download Errata Page](/assets/pdf/adb-errata.pdf)
 
 ***
