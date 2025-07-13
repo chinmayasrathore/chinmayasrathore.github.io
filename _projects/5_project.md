@@ -61,6 +61,7 @@ Download the DIPS software for Windows 7/8/10/11:
 This software is released for free distribution for teaching and learning in educational institutions. However any commercial distribution directly or packaged with other products or in any other form is not permitted without the written consent of the author.
 
 The copyright for this software rests with the author.The copyright messages should not be tampered or changed. The software is distributed on as is basis. The author, is not liable for damages of any kind whatsoever through the use of this software. By downloading and using this software, you agree to these terms of use.
+
 ***
 
 ### ▶️ Video Tutorial for Using and Teaching with DIPS
