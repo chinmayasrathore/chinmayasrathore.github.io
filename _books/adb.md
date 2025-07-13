@@ -5,11 +5,11 @@ author: Chinmaya S. Rathore
 cover: assets/img/book_covers/adb-cover.jpg
 isbn: 9789369262403 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Computer Textbook
-tags: AsciiDoc,AsciiDoctor
+tags: AsciiDoc AsciiDoctor Textbook Computer
 buy_link: https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592
 released: July, 2025
 stars: 5
-status: Book Website
+status: Finished
 ---
 
 ### About the Book
@@ -36,6 +36,7 @@ Packed with clear explanations, step-by-step instructions, and practical exercis
 ### Download Exercise Packet 
 
 ⤵️ **Download Try it Yourself Exercise Packet**
+
 👉 [Download Exercise File Packet as a Zip File](/assets/pdf/adb_excercises.zip)
 
 Unzip after downloading and use the files to solve tasks given at the end of book chapter. 
@@ -43,8 +44,10 @@ Unzip after downloading and use the files to solve tasks given at the end of boo
 ***
 
 ### Errata Page
+
 The errata page is current and is updated as soon as some issue is spotted.
 👉 [Download Errata Page](/assets/pdf/adb-errata.pdf)
+
 ***
 
 ### Video Tutorials Supplementing Book Content 
