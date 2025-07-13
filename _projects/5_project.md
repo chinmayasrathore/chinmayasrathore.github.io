@@ -48,6 +48,7 @@ The Digital Image Processing Simulator (DIPS) is an interactive Digital Image Pr
 ### Download DIPS Software 
 
 Download the DIPS software for windows:
+
 👉 [DIPS Download Link](/assets/pdf/dipssoft.zip)
 
 Click on the downloaded file and follow installer instructions.
@@ -90,5 +91,3 @@ DIPS is primarily aimed at introductory digital image processing courses in remo
  - Computation of Kappa Statistic
    
 ***
-
-{% endraw %}
