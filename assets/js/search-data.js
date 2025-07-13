@@ -436,8 +436,8 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-dips-digital-image-processing-simulator",
-          title: 'DIPS - Digital Image Processing Simulator',
+            },},{id: "projects-digital-image-processing-simulator",
+          title: 'Digital Image Processing Simulator',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
