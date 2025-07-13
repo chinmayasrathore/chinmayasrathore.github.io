@@ -3,29 +3,18 @@ layout: book-review
 title: AsciiDoc For Beginners
 author: Chinmaya S. Rathore 
 cover: assets/img/book_covers/adb-cover.jpg
-# olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
+#olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9789369262403 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: Computer Textbook Markdown
-tags: textbook,asciidoc,document creation,asciidoctor,markdown
+categories: Textbook
+tags: asciidoc,asciidoctor
 buy_link: https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592
-# started: 2024-08-23
-# finished: 2024-09-07
+#started: 2024-08-23
+#finished: 2024-09-07
 published: July, 2025
 stars: 5
-# goodreads_review: 6318556633
-# status: Finished
+#goodreads_review: 6318556633
+#status: Finished
 ---
-
-### Download Exercise Packet 
-
-***
-
-⬇️ Download Try it Yourself Exercise Packet
-[Download Exercise File Packet as a Zip File](/assets/pdf/adb_excercises.zip)
-
-Unzip after downloading and use the files to solve tasks given at the end of book chapter. 
-
-***
 
 ### About the Book
 
@@ -45,4 +34,17 @@ Inside, you'll discover:
 - Real-world examples and use cases
 
 Packed with clear explanations, step-by-step instructions, and practical exercises, this book is your gateway to getting started and mastering AsciiDoc. Start your journey towards more efficient, collaborative and visually appealing document creation today!
+
+***
+### Download Exercise Packet 
+
+⬇️ Download Try it Yourself Exercise Packet
+[Download Exercise File Packet as a Zip File](/assets/pdf/adb_excercises.zip)
+
+Unzip after downloading and use the files to solve tasks given at the end of book chapter. 
+
+***
+
+
+
 
