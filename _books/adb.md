@@ -3,17 +3,13 @@ layout: book-review
 title: AsciiDoc For Beginners
 author: Chinmaya S. Rathore 
 cover: assets/img/book_covers/adb-cover.jpg
-#olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9789369262403 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: Textbook
-tags: asciidoc,asciidoctor
+categories: Computer Textbook
+tags: AsciiDoc,AsciiDoctor
 buy_link: https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592
-#started: 2024-08-23
-#finished: 2024-09-07
-published: July, 2025
+released: July, 2025
 stars: 5
-#goodreads_review: 6318556633
-#status: Finished
+status: Book Website
 ---
 
 ### About the Book
@@ -36,14 +32,27 @@ Inside, you'll discover:
 Packed with clear explanations, step-by-step instructions, and practical exercises, this book is your gateway to getting started and mastering AsciiDoc. Start your journey towards more efficient, collaborative and visually appealing document creation today!
 
 ***
+
 ### Download Exercise Packet 
 
-⬇️ Download Try it Yourself Exercise Packet
-[Download Exercise File Packet as a Zip File](/assets/pdf/adb_excercises.zip)
+⤵️ **Download Try it Yourself Exercise Packet**
+👉 [Download Exercise File Packet as a Zip File](/assets/pdf/adb_excercises.zip)
 
 Unzip after downloading and use the files to solve tasks given at the end of book chapter. 
 
 ***
+
+### Errata Page
+The errata page is current and is updated as soon as some issue is spotted.
+👉 [Download Errata Page](/assets/pdf/adb-errata.pdf)
+***
+
+### Video Tutorials Supplementing Book Content 
+
+This section will be updated in the future.
+
+***
+
 
 
 
