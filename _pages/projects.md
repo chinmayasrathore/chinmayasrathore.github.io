@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: some useful projects
 nav: true
-nav_order: 3
+nav_order: 5
 display_categories: [software]
 horizontal: false
 ---
