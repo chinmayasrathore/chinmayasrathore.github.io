@@ -12,7 +12,7 @@ category: software
 The Digital Image Processing Simulator (DIPS) is an interactive Digital Image Processing learning tool for Windows XP/7/8/10/11. DIPS covers a core body of digital image processing concepts which are usually taught in Remote Sensing courses and are critical to the understanding of image analysis. DIPS tries to bridge a learning gap between classroom explanations of concepts and their demonstration on the image processing system. It has been designed in a way that it can be shared between the student and the teacher. It can be used by the teacher to conveniently explain difficult to understand image processing concepts during a lecture, while it can also be used by the student to follow up concepts explained in the class.
 
 ***
-### 🖥️ Some Screenshots 
+### 🖥️ Screenshots 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -47,7 +47,7 @@ The Digital Image Processing Simulator (DIPS) is an interactive Digital Image Pr
 
 ***
 
-### ⤵️ Download DIPS Software 
+### ⤵️ Download DIPS
 
 Download the DIPS software for Windows 7/8/10/11:
 
@@ -64,8 +64,8 @@ The copyright for this software rests with the author.The copyright messages sho
 
 ***
 
-### ▶️ Video Tutorial for Using and Teaching with DIPS
-You can learn how to use DIPS with these video tutorials:
+### ▶️ Video Tutorial
+You can learn how to use DIPS for teaching and learnig with these video tutorials.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube-nocookie.com/embed/79D7h6dKF-A" class="img-fluid rounded" %}
@@ -84,7 +84,7 @@ You can learn how to use DIPS with these video tutorials:
 
 ***
 
-### 📋 Image Processing Topics Covered
+### 📋 Topics Covered
 DIPS is primarily aimed at introductory digital image processing courses in remote sensing. DIPS covers a core body of digital image processing concepts. DIPS has been specifically designed to expose detailed calculations of image processing algorithms using small sample images. The users (students and teachers) can change these small sample images to build their own examples and add to the pool of exercises. Concepts covered by DIPS include:
 
 - Display of Colour on Multiband Digital Images
