@@ -400,12 +400,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-asciidoc-for-beginners",
-          title: 'AsciiDoc For Beginners',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/adb/";
-            },},{id: "news-a-simple-inline-announcement",
+      },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
