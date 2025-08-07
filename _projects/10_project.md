@@ -40,13 +40,13 @@ I am sharing this note to aid teaching in GIS courses where course instructors c
 
 ***
 
-### ⤵️ Download the Teaching Note as PDF
+### ⤵️ Download the Teaching Note
 
-👉 [Read the Teaching Note Online](/assets/pdf/techdemgl/techdemgl.pdf)
+👉 [Get PDF copy of the Teaching Note](/assets/pdf/techdemgl/techdemgl.pdf)
 
 ### ▶️ Video Tutorials - Using the GPS Logger App
 
-You can learn how to use the GPS Logger app with the following video tutorials. The 2025 update video specidically covers the new interface updates while the older video has some useful information about the app that is still valid. You can watch both these videos. 
+I have created the following videos tutorials that will help you gt started with using the GPS Logger app. The 2025 update video specifically covers the new interface updates while the older video has some useful information about the app that is still valid. You can watch both these videos. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube-nocookie.com/embed/MexKduwnCjw" class="img-fluid rounded" %}
@@ -62,6 +62,7 @@ You can learn how to use the GPS Logger app with the following video tutorials. 
     </div>
 </div>
 
+Fore more information about the GPS Logger app, see the [getting started guide](https://basicairdata.eu/projects/android/android-gps-logger/getting-started-guide-for-gps-logger/)
 
 ***
  
