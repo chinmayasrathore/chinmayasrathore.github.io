@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tech Demonstrator - GPS Logger Android App
-description: A teach demonstrator teaching note assessing the accuracy of the Android GPS Logger app 
+title: Tech Demonstrator - GPS Logger App
+description: A tech demonstrator teaching note assessing the accuracy of the Android GPS Logger app 
 img: assets/pdf/techdemgl/cover.png
 importance: 3
 category: software
@@ -46,16 +46,16 @@ I am sharing this note to aid teaching in GIS courses where course instructors c
 
 ### ▶️ Video Tutorials - Using the GPS Logger App
 
-You can learn how to use the GPS Logger app with the following video tutorials. The 2025 update video specidically covers the new interface updates while the older video has some intresting information about the app that is still valid. You can watch both these videos. 
+You can learn how to use the GPS Logger app with the following video tutorials. The 2025 update video specidically covers the new interface updates while the older video has some useful information about the app that is still valid. You can watch both these videos. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/MexKduwnCjw" class="img-fluid rounded" %}
+        {% include video.liquid path="https://www.youtube.com/watch?v=MexKduwnCjw" class="img-fluid rounded" %}
         <div class="caption">
             ▶️ GPS Logger App 2025 Update 
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/YPHE8du-1jA" class="img-fluid rounded" %}
+        {% include video.liquid path="https://www.youtube.com/watch?v=YPHE8du-1jA" class="img-fluid rounded" %}
         <div class="caption">
             ▶️ GPS Logger App Old Video (has some good information)
         </div>
