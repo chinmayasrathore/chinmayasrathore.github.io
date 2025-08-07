@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-tech-demonstrator-gps-logger-android-app",
           title: 'Tech Demonstrator - GPS Logger Android App',
-          description: "A teach demonstrator teaching note assessing the accuracy of GPS Logger app",
+          description: "A teach demonstrator teaching note assessing the accuracy of the Android GPS Logger app",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-project-1",
