@@ -416,9 +416,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-tech-demonstrator-gps-logger-android-app",
-          title: 'Tech Demonstrator - GPS Logger Android App',
-          description: "A teach demonstrator teaching note assessing the accuracy of the Android GPS Logger app",
+          section: "News",},{id: "projects-tech-demonstrator-gps-logger-app",
+          title: 'Tech Demonstrator - GPS Logger App',
+          description: "A tech demonstrator teaching note assessing the accuracy of the Android GPS Logger app",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-project-1",
