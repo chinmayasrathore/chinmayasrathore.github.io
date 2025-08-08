@@ -435,40 +435,15 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </style>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body class="article toc2 toc-left">
+<body class="article">
 <div id="header">
-<div id="toc" class="toc2">
-<div id="toctitle">Table of Contents</div>
-<ul class="sectlevel1">
-<li><a href="#_background">1. BACKGROUND</a></li>
-<li><a href="#_installing_and_using_gps_logger">2. INSTALLING AND USING GPS LOGGER</a>
-<ul class="sectlevel2">
-<li><a href="#_installing_the_gps_logger_app">2.1. Installing the GPS Logger App</a></li>
-<li><a href="#_recording_nd_annotating_waypoints_or_placemarks">2.2. Recording nd Annotating Waypoints or Placemarks</a></li>
-<li><a href="#_recording_and_annotating_tracks">2.3. Recording and Annotating Tracks</a></li>
-<li><a href="#_viewing_and_exporting_the_tracklist">2.4. Viewing and Exporting the Tracklist</a></li>
-</ul>
-</li>
-<li><a href="#_how_does_it_compare_to_a_gps_receiver">3. HOW DOES IT COMPARE TO A GPS RECEIVER?</a>
-<ul class="sectlevel2">
-<li><a href="#_horizontal_accuracy">3.1. HORIZONTAL ACCURACY</a></li>
-<li><a href="#_vertical_accuracy">3.2. VERTICAL ACCURACY</a></li>
-<li><a href="#_summarizing_results">3.3. SUMMARIZING RESULTS</a></li>
-</ul>
-</li>
-<li><a href="#_app_performance">4. APP PERFORMANCE</a></li>
-<li><a href="#_conclusion">5. CONCLUSION</a></li>
-<li><a href="#_acknowledgements">6. ACKNOWLEDGEMENTS</a></li>
-<li><a href="#_references">7. REFERENCES</a></li>
-</ul>
-</div>
 </div>
 <div id="content">
 <div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
-<img src="images/covern.png" alt="covern">
+<img src="images/cover.pdf" alt="cover">
 </div>
 </div>
 <div style="page-break-after: always;"></div>
@@ -504,7 +479,31 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </div>
 <hr>
 <div style="page-break-after: always;"></div>
-<!-- toc disabled -->
+<div id="toc" class="toc">
+<div id="toctitle" class="title">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_background">1. BACKGROUND</a></li>
+<li><a href="#_installing_and_using_gps_logger">2. INSTALLING AND USING GPS LOGGER</a>
+<ul class="sectlevel2">
+<li><a href="#_installing_the_gps_logger_app">2.1. Installing the GPS Logger App</a></li>
+<li><a href="#_recording_nd_annotating_waypoints_or_placemarks">2.2. Recording nd Annotating Waypoints or Placemarks</a></li>
+<li><a href="#_recording_and_annotating_tracks">2.3. Recording and Annotating Tracks</a></li>
+<li><a href="#_viewing_and_exporting_the_tracklist">2.4. Viewing and Exporting the Tracklist</a></li>
+</ul>
+</li>
+<li><a href="#_how_does_it_compare_to_a_gps_receiver">3. HOW DOES IT COMPARE TO A GPS RECEIVER?</a>
+<ul class="sectlevel2">
+<li><a href="#_horizontal_accuracy">3.1. HORIZONTAL ACCURACY</a></li>
+<li><a href="#_vertical_accuracy">3.2. VERTICAL ACCURACY</a></li>
+<li><a href="#_summarizing_results">3.3. SUMMARIZING RESULTS</a></li>
+</ul>
+</li>
+<li><a href="#_app_performance">4. APP PERFORMANCE</a></li>
+<li><a href="#_conclusion">5. CONCLUSION</a></li>
+<li><a href="#_acknowledgements">6. ACKNOWLEDGEMENTS</a></li>
+<li><a href="#_references">7. REFERENCES</a></li>
+</ul>
+</div>
 </div>
 </div>
 <div class="sect1">
@@ -578,19 +577,20 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>Once installed, using the app is quite easy. Move out to an open area where you have visibility of the sky, enable the smartphone GPS (location) and start the GPS Logger app. <a href="#fig1">Figure 1</a>(a) shows the opening screen of GPS Logger 3.2.3 displaying a GPX fix after a few seconds of switching ON (the first fix might however take longer so be patient!).</p>
 </div>
 <div class="paragraph">
-<p>Once you have a stable fix and a stable estimate of accuracy, you can start collecting waypoints and tracks. Referring to <a href="#fig1">Figure 1</a>(a), to record a waypoint or a placemark, tap on the Track Tab (callout 1) and press the <em>Add Annotation</em> button <span class="image"><img src="images/addloc.svg" alt="addloc"></span> (callout 2) at the bottom of the screen. Give your this collected waypoint point a name. You an then walk to another waypoint of interest and repeat the process i.e. press the <em>Add Annotation</em> button to record ad then give the second waypoint a name. In this manner, you can collect as many waypoints as you want. Once you have done collecting your waypoints, press the <em>Stop</em> button <span class="icon"><i class="fa fa-stop"></i></span> (callout 3) to conclude and give this collection of waypoints a name under which these waypoints or placemarks will be saved in the tracklist.  on the tracklist).</p>
+<p>Once you have a stable fix and a stable estimate of accuracy, you can start collecting waypoints and tracks. Referring to <a href="#fig1">Figure 1</a>(a), to record a waypoint or a placemark, tap on the Track Tab (callout 1) and press the <em>Add Annotation</em> button <span class="image"><img src="images/addloc.svg" alt="addloc"></span> (callout 2) at the bottom of the screen. Give your waypoint point a name. You can then walk to another waypoint of interest and repeat the process i.e. press the <em>Add Annotation</em> button to record and then give the second waypoint a name. In this manner, you can collect as many waypoints as you want. Once you have done collecting your waypoints, press the <em>Stop</em> button <span class="icon"><i class="fa fa-stop"></i></span> (callout 3) to conclude and give this collection of waypoints a name under which these waypoints or placemarks will be saved in the tracklist.
+To see the saved waypoint file, press the <em>tracklist</em> tab.</p>
 </div>
 </div>
 <div class="sect2">
 <h3 id="_recording_and_annotating_tracks">2.3. Recording and Annotating Tracks</h3>
 <div class="paragraph">
-<p>To record a track, press the <em>Record</em> button <span class="icon"><i class="fa fa-circle"></i></span> (callout 4). Walk or drive around to complete your track and to stop recording, press the <em>Stop button</em> <span class="icon"><i class="fa fa-stop"></i></span> (callout 3) and save the track with a name. During the recording of a track, you can pause the recording by hitting the pause button <span class="icon"><i class="fa fa-pause"></i></span> (the record button becomes the pause button while recording) and annotate key landmarks on the track by pressing the <em>Annotation</em> button <span class="image"><img src="images/addloc.svg" alt="addloc"></span> and giving that landmark a name. You can resume recording the track by hitting the <em>record</em> button again. When you are recording a track, you can, if you want,  press the lock button <span class="image"><img src="images/lock.svg" alt="lock"></span> to accidentally pause recording. When the lock button is engaged, no buttons on the bottom bar work.</p>
+<p>To record a track, press the <em>Record</em> button <span class="icon"><i class="fa fa-circle"></i></span> (callout 4). Walk or drive around to complete your track and to <em>stop</em> recording, press the <em>Stop button</em> <span class="icon"><i class="fa fa-stop"></i></span> (callout 3) and save the track with a name. During the recording of a track, you can pause the recording by hitting the pause button <span class="icon"><i class="fa fa-pause"></i></span> (the record button becomes the pause button while recording) and annotate key landmarks on the track by pressing the <em>Annotation</em> button <span class="image"><img src="images/addloc.svg" alt="addloc"></span> and giving that landmark a name. You can resume recording the track by hitting the <em>record</em> button again. When you are recording a track, you can, if you wish,  press the lock button <span class="image"><img src="images/lock.svg" alt="lock"></span> which prevents accidental pressing of the stop or pause buttons while recording. When the lock button is engaged, no buttons on the bottom bar work.</p>
 </div>
 </div>
 <div class="sect2">
 <h3 id="_viewing_and_exporting_the_tracklist">2.4. Viewing and Exporting the Tracklist</h3>
 <div class="paragraph">
-<p>Press the Tracklist tab (callout 6) on top right of the screen to see all your saved waypoints and tracks, indicated by different icons (<a href="#fig1">Figure 1</a>(b). Notice in <a href="#fig1">Figure 1</a>(b) that the track icon indicates that track was completed on foot (walking figure).You can change these icons via edit. Tapping on any item listed (<a href="#fig2">Figure 2</a>(a)&#8201;&#8212;&#8201;callout 1) in the tracklist opens up options to view <span class="image"><img src="images/eye.svg" alt="eye"></span>, edit <span class="image"><img src="images/edit.svg" alt="edit"></span>, share <span class="image"><img src="images/share.svg" alt="24" width="24"></span>, export <span class="image"><img src="images/export.svg" alt="export"></span> or delete <span class="icon"><i class="fa fa-trash"></i></span> (<a href="#fig2">Figure 2</a>(a)&#8201;&#8212;&#8201;callout 2). Try seeing a saved placemark or track on Google Earth if installed using the <span class="image"><img src="images/eye.svg" alt="eye"></span> icon. Try exporting one as a KML or GPX file by tapping on the export <span class="image"><img src="images/export.svg" alt="export"></span> icon. Tap the three dots o access export settings (<a href="#fig2">Figure 2</a>(a)&#8201;&#8212;&#8201;callout 7) from where you can choose export formats as een in (<a href="#fig2">Figure 2</a>(b). To know more about using the app, refer to the getting <a href="https://basicairdata.eu/projects/android/android-gps-logger/getting-started-guide-for-gps-logger/">GPS Logger get started guide</a>.</p>
+<p>Press the Tracklist tab (callout 6) on top right of the screen to see all your saved waypoints and tracks, indicated by different icons (<a href="#fig1">Figure 1</a>(b). Notice in <a href="#fig1">Figure 1</a>(b) that the track icon indicates that track was completed on foot (walking figure).You can change these icons via the edit. Tapping on any item listed (<a href="#fig2">Figure 2</a>(a)&#8201;&#8212;&#8201;callout 1) in the tracklist opens up options to view <span class="image"><img src="images/eye.svg" alt="eye"></span>, edit <span class="image"><img src="images/edit.svg" alt="edit"></span>, share <span class="image"><img src="images/share.svg" alt="24" width="24"></span>, export <span class="image"><img src="images/export.svg" alt="export"></span> or delete <span class="icon"><i class="fa fa-trash"></i></span> (<a href="#fig2">Figure 2</a>(a)&#8201;&#8212;&#8201;callout 2). Try seeing a saved placemark or track on Google Earth if installed using the <span class="image"><img src="images/eye.svg" alt="eye"></span> icon. Try exporting one as a KML or GPX file by tapping on the export <span class="image"><img src="images/export.svg" alt="export"></span> icon. Tap the three dots to access export settings (<a href="#fig2">Figure 2</a>(a)&#8201;&#8212;&#8201;callout 7) from where you can choose export formats as seen in (<a href="#fig2">Figure 2</a>(b). To know more about using the app, view the tutorial videos mentioned below or refer to the getting <a href="https://basicairdata.eu/projects/android/android-gps-logger/getting-started-guide-for-gps-logger/">GPS Logger get started guide</a>.</p>
 </div>
 <div id="fig1" class="imageblock">
 <div class="content">
@@ -599,7 +599,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="title">Figure 1. The GPS Logger GPS Fix and tracklist screens</div>
 </div>
 <div class="paragraph">
-<p>These waypoints and tracks can be exported in GPX, KML and text or Comma Separated Values (CSV) formats. There is absolutely no limitation on the number of waypoints or tracks that can be exported.</p>
+<p>These waypoints and tracks can be exported in GPX, KML and text or Comma Separated Values (CSV) formats. There is absolutely no limitation on the number of waypoints or tracks that can be recorded or exported.</p>
 </div>
 <div class="paragraph">
 <p>In summary,the app is very easy to use, doesn&#8217;t track you and does not share any data with any third party. It starts almost immediately even on low end smartphones and has a remarkably clean interface that focuses on the essentials.</p>
@@ -611,7 +611,23 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <i class="fa icon-note" title="Note"></i>
 </td>
 <td class="content">
-I have created a <a href="https://www.youtube.com/watch?v=YPHE8du-1jA">video tutorial on how to use the GPS Logger App</a> which will provide the reader with a quick head start in using this app for field surveys. This is however for an old1er version of GPS logger but it is still instructive.
+<div class="title">Tutorial Videos on GPS Logger App</div>
+<div class="paragraph">
+<p>I have created the following video tutorial on how to use the GPS Logger App which will provide the reader with a quick head start in using this app for field surveys.</p>
+</div>
+<div class="videoblock">
+<div class="content">
+<iframe width="500" height="300" src="https://www.youtube.com/embed/MexKduwnCjw?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="paragraph">
+<p>This is a 2025 update of the following older video of GPS Logger that I had created 8 years ago. The following older video is still relevant and instructive.</p>
+</div>
+<div class="videoblock">
+<div class="content">
+<iframe width="500" height="300" src="https://www.youtube.com/embed/YPHE8du-1jA?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
 </td>
 </tr>
 </table>
@@ -860,7 +876,7 @@ I have created a <a href="https://www.youtube.com/watch?v=YPHE8du-1jA">video tut
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2025-08-03 15:19:00 UTC
+Last updated 2025-08-03 15:22:30 UTC
 </div>
 </div>
 </body>
