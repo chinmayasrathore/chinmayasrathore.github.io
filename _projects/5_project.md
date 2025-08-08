@@ -2,7 +2,7 @@
 layout: page
 title: DIPS
 description: A free software to teach introductory digital remote sensing concepts
-img: assets/img/dips/dips1-main-screen.png
+img: assets/img/dips/pcover.png
 importance: 3
 category: software
 ---
