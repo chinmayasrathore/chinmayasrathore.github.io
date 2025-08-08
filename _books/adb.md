@@ -60,7 +60,7 @@ Packed with clear explanations, step-by-step instructions, and practical exercis
 
 ⤵️ **Download Try it Yourself Exercise Packet**
 
-👉 [Download Exercise File Packet as a Zip File](assets/pdf/adb_excercises.zip)
+👉 [Download Exercise File Packet as a Zip File](assets/pdf/adb_exercises.zip)
 
 Unzip after downloading and use the files to solve tasks given at the end of book chapter. 
 
