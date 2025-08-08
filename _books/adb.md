@@ -19,11 +19,20 @@ status: Finished
 ***
 
 ### Available Internationally on Amazon
+
+*India (Paperback)*
+
+<img src="/assets/img/amazon.svg" width="32" height="32"> [Amazon India,](https://www.amazon.in/dp/9369262407)
+<img src="/assets/img/flipkart.svg" width="32" height="32">[Flipkart](https://dl.flipkart.com/s/V_gdHDuuuN)
+
+*India (eBook)*
+<img src="/assets/img/amazon.svg" width="32" height="32"> [Amazon India](https://www.amazon.in/dp/B0FLPX6LK8)
+
 *International (eBook)* 
-<img src="/assets/img/amazon.svg" width="32" height="32"> [Amazon USA:](https://www.amazon.com/dp/B0FLPX6LK8)
-[UK:](https://www.amazon.co.uk/dp/B0FLPX6LK8)
-[Canada:](https://www.amazon.ca/dp/B0FLPX6LK8)
-[Australia:](https://www.amazon.com.au/dp/B0FLPX6LK8) 
+<img src="/assets/img/amazon.svg" width="32" height="32"> [Amazon USA,](https://www.amazon.com/dp/B0FLPX6LK8)
+[Amazon UK,](https://www.amazon.co.uk/dp/B0FLPX6LK8)
+[Amazon Canada,](https://www.amazon.ca/dp/B0FLPX6LK8)
+[Amazon Australia,](https://www.amazon.com.au/dp/B0FLPX6LK8) 
 And on other country Amazon site
 
 ### About the Book
@@ -45,6 +54,8 @@ Inside, you'll discover:
 - Real-world examples and use cases
 
 Packed with clear explanations, step-by-step instructions, and practical exercises, this book is your gateway to getting started and mastering AsciiDoc. Start your journey towards more efficient, collaborative and visually appealing document creation today!
+
+👉 See the [Table of Contents](/assets/pdf/adb-toc.pdf).
 
 ***
 
