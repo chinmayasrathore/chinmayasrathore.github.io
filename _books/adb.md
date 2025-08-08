@@ -6,8 +6,7 @@ cover: assets/img/book_covers/adb-cover.jpg
 isbn: 9789369262403 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Computer Textbook
 tags: AsciiDoc AsciiDoctor Textbook Computer
-buy_link: https://www.amazon.in/dp/B0FLPX6LK8
-buy_link: https://dl.flipkart.com/s/V_gdHDuuuN
+buy_link: https://www.amazon.in/dp/9369262407
 released: July, 2025
 stars: 5
 status: Finished
@@ -15,24 +14,24 @@ status: Finished
 
 ***
 
-> 👉 [ Click here to download Exercise File Packet as a Zip File](/assets/pdf/adb_excercises.zip)
+> 👉 [Click here to download Exercise File Packet as a Zip File](assets/pdf/adb_exercises.zip)
 
 ***
 
 ### Available From Amazon Internationally 
 
 *India (Paperback)*
-Amazon: https://www.amazon.in/dp/B0FLPX6LK8
-Flipkart: https://dl.flipkart.com/s/V_gdHDuuuN
+[Amazon:](https://www.amazon.in/dp/9369262407)
+[Flipkart:](https://dl.flipkart.com/s/V_gdHDuuuN)
 
 *India (eBook)*
-https://www.amazon.in/dp/B0FLPX6LK8
+[Amazon India](https://www.amazon.in/dp/B0FLPX6LK8)
 
 *International (eBook)* 
-Amazon USA: https://www.amazon.com/dp/B0FLPX6LK8
-UK : https://www.amazon.co.uk/dp/B0FLPX6LK8
-Canada : https://www.amazon.ca/dp/B0FLPX6LK8
-Australia: https://www.amazon.com.au/dp/B0FLPX6LK8 
+[Amazon USA:](https://www.amazon.com/dp/B0FLPX6LK8)
+[UK:](https://www.amazon.co.uk/dp/B0FLPX6LK8)
+[Canada:](https://www.amazon.ca/dp/B0FLPX6LK8)
+[Australia:](https://www.amazon.com.au/dp/B0FLPX6LK8) 
 And on other country Amazon site
 
 ### About the Book
@@ -61,7 +60,7 @@ Packed with clear explanations, step-by-step instructions, and practical exercis
 
 ⤵️ **Download Try it Yourself Exercise Packet**
 
-👉 [Download Exercise File Packet as a Zip File](/assets/pdf/adb_excercises.zip)
+👉 [Download Exercise File Packet as a Zip File](assets/pdf/adb_excercises.zip)
 
 Unzip after downloading and use the files to solve tasks given at the end of book chapter. 
 
@@ -71,7 +70,7 @@ Unzip after downloading and use the files to solve tasks given at the end of boo
 
 The errata page is current and is updated as soon as some issue is spotted.
 
-👉 [Download Errata Page](/assets/pdf/adb-errata.pdf)
+👉 [Download Errata Page](assets/pdf/adb-errata.pdf)
 
 ***
 
