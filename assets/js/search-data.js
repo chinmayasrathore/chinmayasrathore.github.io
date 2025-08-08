@@ -400,7 +400,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "books-asciidoc-for-beginners",
+          title: 'AsciiDoc For Beginners',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/adb/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
