@@ -14,7 +14,7 @@ status: Finished
 
 ***
 
-> 👉 [Click here to download Exercise File Packet as a Zip File](assets/pdf/adb_exercises.zip)
+> 👉 [Click here to download Exercise File Packet as a Zip File](/assets/pdf/adb_exercises.zip)
 
 ***
 
@@ -60,7 +60,7 @@ Packed with clear explanations, step-by-step instructions, and practical exercis
 
 ⤵️ **Download Try it Yourself Exercise Packet**
 
-👉 [Download Exercise File Packet as a Zip File](assets/pdf/adb_exercises.zip)
+👉 [Download Exercise File Packet as a Zip File](/assets/pdf/adb_exercises.zip)
 
 Unzip after downloading and use the files to solve tasks given at the end of book chapter. 
 
@@ -70,7 +70,7 @@ Unzip after downloading and use the files to solve tasks given at the end of boo
 
 The errata page is current and is updated as soon as some issue is spotted.
 
-👉 [Download Errata Page](assets/pdf/adb-errata.pdf)
+👉 [Download Errata Page](/assets/pdf/adb-errata.pdf)
 
 ***
 
