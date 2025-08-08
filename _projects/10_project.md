@@ -2,7 +2,7 @@
 layout: page
 title: Tech Demonstrator - GPS Logger App
 description: A tech demonstrator teaching note assessing the accuracy of the Android GPS Logger app 
-img: assets/pdf/techdemgl/cover.png
+img: assets/pdf/techdemgl/glcover.png
 importance: 3
 category: software
 ---
