@@ -16,6 +16,8 @@ status: reading
 
 > 👉 [Click here to download Exercise File Packet as a Zip File](/assets/pdf/adb_exercises.zip)
 
+> 👉 [Click here to download Exercise File Packet as a Zip File](/assets/pdf/adb_exercises.zip)
+
 ***
 
 ### Available Internationally on Amazon
@@ -26,13 +28,17 @@ status: reading
 <img src="/assets/img/flipkart.svg" width="32" height="32">[Flipkart](https://dl.flipkart.com/s/V_gdHDuuuN)
 
 ***International (Paperback and eBook- Kindle Amazon)***
+
 <img src="/assets/img/amazon.svg" width="32" height="32"> [Amazon USA/Global,](https://www.amazon.com/dp/B0FLPX6LK8)
 [Amazon UK/Ireland,](https://www.amazon.co.uk/dp/B0FLPX6LK8)
 [Amazon Canada,](https://www.amazon.ca/dp/B0FLPX6LK8)
-[Amazon Australia,](https://www.amazon.com.au/dp/B0FLPX6LK8) 
+[Amazon Australia,New Zealand](https://www.amazon.com.au/dp/B0FLPX6LK8) 
 
 ***Other Countries (Paperback and eBook- Kindle Amazon)***
-<img src="/assets/img/amazon.svg" width="32" height="32"> And on other country Amazon sites - Please seach for "AsciiDoc for Beginners Chinmaya S Rathore" or you can also try by ASIN number B0FLTYTF47 in the Amazon search box. Click on the result to see both Kindle and Paperback options. If you can't find the book in your regional Amazon site, you can get it from Amazon.com (deliver to - Ship outside US)
+
+<img src="/assets/img/amazon.svg" width="32" height="32"> Other country Amazon sites - Please seach for "AsciiDoc for Beginners Chinmaya S Rathore" or the iSBN 9369262407 in the Amazon search box.
+
+***
 
 ### About the Book
 
