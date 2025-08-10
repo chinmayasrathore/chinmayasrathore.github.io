@@ -9,7 +9,7 @@ tags: AsciiDoc AsciiDoctor Textbook Computer
 buy_link: https://www.amazon.in/dp/9369262407
 released: July, 2025
 stars: 5
-status: "Published"
+status: reading
 ---
 
 ***
@@ -20,18 +20,19 @@ status: "Published"
 
 ### Available Internationally on Amazon
 
-***India (Paperback and eBook- Kinde Amazon)***
+***India (Paperback and eBook- Kindle Amazon)***
 
 <img src="/assets/img/amazon.svg" width="32" height="32"> [Amazon India,](https://www.amazon.in/dp/9369262407)
 <img src="/assets/img/flipkart.svg" width="32" height="32">[Flipkart](https://dl.flipkart.com/s/V_gdHDuuuN)
-***International (Paperback and eBook- Kinde Amazon)***
-<img src="/assets/img/amazon.svg" width="32" height="32"> [Amazon USA,](https://www.amazon.com/dp/B0FLPX6LK8)
-[Amazon UK,](https://www.amazon.co.uk/dp/B0FLPX6LK8)
+
+***International (Paperback and eBook- Kindle Amazon)***
+<img src="/assets/img/amazon.svg" width="32" height="32"> [Amazon USA/Global,](https://www.amazon.com/dp/B0FLPX6LK8)
+[Amazon UK/Ireland,](https://www.amazon.co.uk/dp/B0FLPX6LK8)
 [Amazon Canada,](https://www.amazon.ca/dp/B0FLPX6LK8)
 [Amazon Australia,](https://www.amazon.com.au/dp/B0FLPX6LK8) 
 
-***Other Countries***
-<img src="/assets/img/amazon.svg" width="32" height="32"> And on other country Amazon sites - Please seach for "AsciiDoc for Beginners Chinmaya S Rathore" or "Chinmaya S Rathore" or you can also look up by ASIN number B0FLTYTF47 in the Amazon search box. Click on the result to see both Kindle and Paperback options. 
+***Other Countries (Paperback and eBook- Kindle Amazon)***
+<img src="/assets/img/amazon.svg" width="32" height="32"> And on other country Amazon sites - Please seach for "AsciiDoc for Beginners Chinmaya S Rathore" or you can also try by ASIN number B0FLTYTF47 in the Amazon search box. Click on the result to see both Kindle and Paperback options. If you can't find the book in your regional Amazon site, you can get it from Amazon.com (deliver to - Ship outside US)
 
 ### About the Book
 
