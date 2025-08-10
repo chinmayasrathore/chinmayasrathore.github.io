@@ -9,7 +9,7 @@ tags: AsciiDoc AsciiDoctor Textbook Computer
 buy_link: https://www.amazon.in/dp/9369262407
 released: July, 2025
 stars: 5
-status: Finished
+status: published
 ---
 
 ***
@@ -33,7 +33,8 @@ status: Finished
 [Amazon UK,](https://www.amazon.co.uk/dp/B0FLPX6LK8)
 [Amazon Canada,](https://www.amazon.ca/dp/B0FLPX6LK8)
 [Amazon Australia,](https://www.amazon.com.au/dp/B0FLPX6LK8) 
-And on other country Amazon site
+**Other Countries**
+<img src="/assets/img/search.svg" width="32" height="32"><img src="/assets/img/amazon.svg" width="32" height="32"> And on other country Amazon sites - Please seach for "AsciiDoc for Beginners Chinmaya S Rathore" or "chinmsya S Rathore" or you can also look up by ASIN number B0FLTYTF47 in the Amazon search box. Click on the result to see both Kindle and Paperback options. 
 
 ### About the Book
 
