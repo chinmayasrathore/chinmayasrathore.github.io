@@ -13,12 +13,12 @@ status: reading
 ---
 
 ***
-> ### Download Book Exercise File Packet (ZIP) for 'Try it Yourself' Exercises in the Book
+> ### ⬇️ Download Book Exercise File Packet (ZIP) for 'Try it Yourself' Exercises in the Book
 > 👉 [Click here to download Exercise File Packet as a Zip File](/assets/pdf/adb_exercises.zip)
 
 ***
 
-### Book Available Internationally on Amazon
+### 📘 Book Available Internationally on Amazon
 
 ***India (Paperback and eBook- Kindle Amazon)***
 
@@ -38,7 +38,7 @@ status: reading
 
 ***
 
-### About the Book
+### 📣 About the Book
 
 Are you looking for an alternative to traditional word processing software? If yes, this book is for you. This book explores a new paradigm of document creation using AsciiDoc, a powerful markup language that has become a go-to choice for technical writers, developers, and content creators. Alongwith AsciiDoctor, the de-facto standard processor and converter software, AsciiDoc is revolutionizing the way we create and publish content. AsciiDoctor is an open-source software that can be downloaded free for Linux, Windows, and MacOS platforms.
 
@@ -62,7 +62,7 @@ Packed with clear explanations, step-by-step instructions, and practical exercis
 
 ***
 
-### Errata Page
+### ❌ Errata Page
 
 The errata page is current and is updated as soon as some issue is spotted.
 
@@ -70,7 +70,7 @@ The errata page is current and is updated as soon as some issue is spotted.
 
 ***
 
-### Video Tutorials Supplementing Book Content 
+### ▶️ Video Tutorials Supplementing Book Content 
 
 This section will be updated in the future.
 
