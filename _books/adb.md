@@ -13,14 +13,12 @@ status: reading
 ---
 
 ***
-
-> 👉 [Click here to download Exercise File Packet as a Zip File](/assets/pdf/adb_exercises.zip)
-
+> ### Download Book Exercise File Packet (ZIP) for 'Try it Yourself' Exercises in the Book
 > 👉 [Click here to download Exercise File Packet as a Zip File](/assets/pdf/adb_exercises.zip)
 
 ***
 
-### Available Internationally on Amazon
+### Book Available Internationally on Amazon
 
 ***India (Paperback and eBook- Kindle Amazon)***
 
@@ -36,7 +34,7 @@ status: reading
 
 ***Other Countries (Paperback and eBook- Kindle Amazon)***
 
-<img src="/assets/img/amazon.svg" width="32" height="32"> Other country Amazon sites - Please seach for "AsciiDoc for Beginners Chinmaya S Rathore" or the iSBN 9369262407 in the Amazon search box.
+<img src="/assets/img/amazon.svg" width="32" height="32"> Other country Amazon sites - Please seach for "AsciiDoc for Beginners Chinmaya S Rathore" or the ISBN 9369262407 in the Amazon search box.
 
 ***
 
@@ -61,16 +59,6 @@ Inside, you'll discover:
 Packed with clear explanations, step-by-step instructions, and practical exercises, this book is your gateway to getting started and mastering AsciiDoc. Start your journey towards more efficient, collaborative and visually appealing document creation today!
 
 👉 See the [Table of Contents](/assets/pdf/adb-toc.pdf).
-
-***
-
-### Download Exercise Packet 
-
-⤵️ **Download Try it Yourself Exercise Packet**
-
-👉 [Download Exercise File Packet as a Zip File](/assets/pdf/adb_exercises.zip)
-
-Unzip after downloading and use the files to solve tasks given at the end of book chapter. 
 
 ***
 
