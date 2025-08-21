@@ -60,13 +60,6 @@ Packed with clear explanations, step-by-step instructions, and practical exercis
 
 👉 See the [Table of Contents](/assets/pdf/adb-toc.pdf).
 
-***
-
-### ❌ Errata Page
-
-The errata page is current and is updated as soon as some issue is spotted.
-
-👉 [Download Errata Page](/assets/pdf/adb-errata.pdf)
 
 ***
 
@@ -76,7 +69,7 @@ The errata page is current and is updated as soon as some issue is spotted.
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube-nocookie.com/embed/cWKUo3xUXlo" class="img-fluid rounded" %}
         <div class="caption">
-            ▶️ AsciiDoc For Beginners - Get Started on AsciiDoc - 21-08-2025 (28 Minutes) . Provides an brief introduction to my AsciiDoc book and AsciiDoc. Incudes an introductory demo highlighting the AsciiDoc document creation workflow showcasing how AsciiDoc documents are created and edited. 
+            ▶️ AsciiDoc For Beginners
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -85,6 +78,14 @@ The errata page is current and is updated as soon as some issue is spotted.
         </div>
     </div>
 </div>
+
+***
+
+### ❌ Errata Page
+
+The errata page is current and is updated as soon as some issue is spotted.
+
+👉 [Download Errata Page](/assets/pdf/adb-errata.pdf)
 
 ***
 
