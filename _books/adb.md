@@ -65,10 +65,8 @@ Packed with clear explanations, step-by-step instructions, and practical exercis
 
 ### ▶️ Video Tutorials Supplementing Book Content 
 
-▶️ AsciiDoc For Beginners - Introductory video about the book and a demo showcasing AsciiDoc document creation.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cWKUo3xUXlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+AsciiDoc For Beginners - Introductory video about the book and a demo showcasing AsciiDoc document creation.
+▶️ Watch : https://www.youtube.com/watch?v=cWKUo3xUXlo
 
 ***
 
