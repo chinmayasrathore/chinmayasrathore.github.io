@@ -69,14 +69,9 @@ Packed with clear explanations, step-by-step instructions, and practical exercis
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube-nocookie.com/embed/cWKUo3xUXlo" class="img-fluid rounded" %}
         <div class="caption">
-            ▶️ AsciiDoc For Beginners
+            ▶️ AsciiDoc For Beginners - Introductory video about the book and a demo showcasing AsciiDoc document creation.
         </div>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="" class="img-fluid rounded" %}
-        <div class="caption">
-        </div>
-    </div>
+     </div>
 </div>
 
 ***
