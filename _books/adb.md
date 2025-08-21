@@ -65,14 +65,10 @@ Packed with clear explanations, step-by-step instructions, and practical exercis
 
 ### ▶️ Video Tutorials Supplementing Book Content 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube-nocookie.com/embed/cWKUo3xUXlo" class="img-fluid rounded" %}
-        <div class="caption">
-            ▶️ AsciiDoc For Beginners - Introductory video about the book and a demo showcasing AsciiDoc document creation.
-        </div>
-     </div>
-</div>
+▶️ AsciiDoc For Beginners - Introductory video about the book and a demo showcasing AsciiDoc document creation.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cWKUo3xUXlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ***
 
