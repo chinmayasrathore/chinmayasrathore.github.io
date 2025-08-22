@@ -2,7 +2,7 @@
 layout: book-review
 title: AsciiDoc For Beginners
 author: Prof. Chinmaya S. Rathore 
-cover: assets/img/book_covers/adb-cover.jpg
+cover: assets/img/book_covers/adb-covers.jpg
 isbn: 9789369262403 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Computer Textbook
 tags: AsciiDoc AsciiDoctor Textbook Computer
