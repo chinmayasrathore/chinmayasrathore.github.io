@@ -65,17 +65,9 @@ Packed with clear explanations, step-by-step instructions, and practical exercis
 
 ### ▶️ Video Tutorials Playlist Supplementing Book Content 
 
-The following playlist on YouTube supplements the contents of the book and should be helpful to learn and use AsciiDoc. I plan to keep adding videos so be sure to revist this playlist for new videos. 
+The following *Playlist on YouTube* supplements the contents of the book and should be helpful to learn and use AsciiDoc. I plan to keep adding videos so be sure to revist this playlist for new videos. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube-nocookie.com/embed/playlist?list=PLKR_CvN6SDJj3kW6_BHM0L6cEz8kRphrh" class="img-fluid rounded" %}
-        <div class="caption">
-            AsciiDoc For Beginners - Introductory video about the book and a demo showcasing AsciiDoc document creation.
-        </div>
-    </div>
-</div>
-
+[![AsciiDoc for Beginners](/assets/img/adbtn.png "AsciiDoc for Beginners Playlist")](https://www.youtube-nocookie.com/embed/playlist?list=PLKR_CvN6SDJj3kW6_BHM0L6cEz8kRphrh)
 
 ### ❌ Errata Page
 
