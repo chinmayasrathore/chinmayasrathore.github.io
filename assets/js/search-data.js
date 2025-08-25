@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-contact",
           title: "contact",
-          description: "Get in Touch",
+          description: "get in touch !",
           section: "Navigation",
           handler: () => {
             window.location.href = "/contact/";
