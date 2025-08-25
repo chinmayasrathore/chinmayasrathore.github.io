@@ -6,7 +6,6 @@ permalink: /contact/
 description: some useful projects
 nav: true
 nav_order: 6
-
 ---
 
 <form
