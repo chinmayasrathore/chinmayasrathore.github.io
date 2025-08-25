@@ -3,10 +3,9 @@
 layout: page
 title: contact
 permalink: /contact/
-description: some useful projects
+description: Get in Touch
 nav: true
 nav_order: 6
-
 ---
 
 <form
