@@ -2,16 +2,12 @@
 layout: page
 title: contact
 permalink: /contact/
-description: Get in Touch
+description: get in touch !
 nav: true
 nav_order: 6
 ---
 
-<style>
-        button:hover {
-            background-color: #6dc8a9ff;
-        }
-</style>
+
 <form accept-charset="UTF-8"  action="https://formspree.io/f/xwpqzvkl"  method="POST" >
   <div class="form-group">
   <label for="name">Name:</label>
@@ -23,7 +19,7 @@ nav_order: 6
   </div>
   <div class="form-group">
   <label for="subject">Subject:</label>
-  <input type="text" id="subject" name="subject" required style="padding:10px;border-radius: 4px;width: 94%;">
+  <input type="text" id="subject" name="subject" required style="padding:10px;border-radius: 4px;width: 93%;">
   </div>
   <div class="form-group">
   <label for="message">Message:</label>
