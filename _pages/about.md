@@ -31,4 +31,4 @@ Hi! I am Chinmaya. I have around four decades of teaching, research, consulting 
 
 I have been a Leverhulme postdoctoral fellow at the University of Aberdeen, Scotland UK and have consulted for FAO, DFID and other agencies. I love teaching and have been an educator for close to four decades.
 
-I am a self-professed advocate of open source software and have keen interest in environmental conservation, satelllite remote sensing, mapping, philosophy, poetry and music. I also love tinkering around with Linux distros.
+I am a self-professed advocate of open source software and have keen interest in environmental conservation, stellite remote sensing, mapping, philosophy, poetry and music. I also love tinkering around with Linux distros.
