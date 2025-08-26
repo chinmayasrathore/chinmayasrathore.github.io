@@ -1418,7 +1418,10 @@ figure.cover {
   }
 }
 
- /* form button hover - csr*/
+   /* form button hover - csr */
 
-button:hover { background-color: #218838; }
- 
+.btn-primary {
+   button:hover { 
+    background-color: #218838; 
+  }
+}
