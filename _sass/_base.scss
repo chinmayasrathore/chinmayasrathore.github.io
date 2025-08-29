@@ -1422,8 +1422,6 @@ figure.cover {
 .btn-primary {
  &:hover {
     color: #FFED29 ;
-    button {
-            background-color: #28a745
-           }
+    border-left-color: var(--global-hover-color);
          }
 }
