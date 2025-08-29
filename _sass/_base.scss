@@ -1419,9 +1419,11 @@ figure.cover {
 }
 
  /* contact form button hover-csr */
-.button {
+.btn-primary {
  &:hover {
     color: #FFED29 ;
-    background-color: #28a745;
-     }
+    button {
+            background-color: #28a745
+           }
+         }
 }
