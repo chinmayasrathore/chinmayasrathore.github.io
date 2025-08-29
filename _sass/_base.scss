@@ -1418,3 +1418,10 @@ figure.cover {
   }
 }
 
+
+.btn-primary {
+
+ &:hover {
+    color: var(--global-hover-color);
+    }
+}
