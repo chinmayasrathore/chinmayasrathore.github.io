@@ -1418,10 +1418,10 @@ figure.cover {
   }
 }
 
-
+ /* contact form button hover-csr */
 .btn-primary {
-
  &:hover {
     color: var(--global-hover-color);
-    }
+    background-color: var(--global-bg-color);
+  }
 }
