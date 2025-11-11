@@ -37,12 +37,12 @@ The Digital Image Processing Simulator (DIPS) is an interactive Digital Image Pr
         {% include figure.liquid loading="eager" path="assets/img/dips/dips6-ppd-classifier.png" title="Classification" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dips/dips7-accuracy.png" title="Accuracy Assssment" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dips/dips7-accuracy.png" title="Accuracy Assessment" class="img-fluid rounded z-depth-1" %}
     </div>
     
 </div>
 <div class="caption">
-    Learn how Edge Enhancement, Classification and Accurracy Assessment work
+    Learn how Edge Enhancement, Classification and Accuracy Assessment work
 </div>
 
 ***
@@ -65,7 +65,7 @@ The copyright for this software rests with the author.The copyright messages sho
 ***
 
 ### ▶️ Video Tutorial
-You can learn how to use DIPS for teaching and learnig with these video tutorials.
+You can learn how to use DIPS for teaching and learning with these video tutorials.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube-nocookie.com/embed/79D7h6dKF-A" class="img-fluid rounded" %}
