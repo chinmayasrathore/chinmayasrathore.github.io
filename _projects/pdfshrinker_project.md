@@ -53,37 +53,18 @@ https://github.com/chinmayasrathore/pdf-shrinker
         {% include figure.liquid loading="eager" path="assets/pdf/pdfshrinker/app-gui2.png" title="Options Information Button" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/pdf/pdfshrinker/app-gui3.pn" title="Advanced Options" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/pdf/pdfshrinker/app-gui3.png" title="Advanced Options" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Application Options
 </div>
 
-***
-
-### ⤵️ Download DIPS
-
-Download the DIPS software for Windows 7/8/10/11:
-
-👉 [DIPS Download Link](/assets/pdf/dipssoft.zip)
-
-➕ Click on the downloaded file and follow installer instructions.
-
-***
-
-### ❗ Terms of Use
-This software is released for free distribution for teaching and learning in educational institutions. However any commercial distribution directly or packaged with other products or in any other form is not permitted without the written consent of the author.
-
-The copyright for this software rests with the author.The copyright messages should not be tampered or changed. The software is distributed on as is basis. The author, is not liable for damages of any kind whatsoever through the use of this software. By downloading and using this software, you agree to these terms of use.
-
-***
-
 ### ▶️ Video Tutorial
 You can learn how to install and use PDF Shrinker for with the following 'get-started' video tutorial.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube-nocookie.com/6wNtDOQvzGA" class="img-fluid rounded" %}
+        {% include video.liquid path="https://www.youtube-nocookie.com/embed/6wNtDOQvzGA" class="img-fluid rounded" %}
         <div class="caption">
             ▶️ Compress PDFs with PDF Shrinker
         </div>
