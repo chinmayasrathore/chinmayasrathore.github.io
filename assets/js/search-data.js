@@ -482,7 +482,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-pdf-shrinker",
           title: 'PDF Shrinker',
-          description: "An easy to use free and open source GUI app that runs on top of Ghostscript for compressing or reducing the size of PDF files. Developed by Prof. Chinmaya S Rathore for Windows and Linux.",
+          description: "An easy to use free and open source GUI app that runs on top of Ghostscript for compressing or reducing the size of PDF files. Available for Windows and Linux.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pdfshrinker_project/";
             },},{
