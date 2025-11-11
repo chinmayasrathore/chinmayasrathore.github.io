@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PDF Shrinker
-description: An easy to use free and open source GUI app that runs on top of Ghostscript for compressing or reducing the size of PDF files. Developed by Prof. Chinmaya S Rathore for Windows and Linux. 
+description: An easy to use free and open source GUI app that runs on top of Ghostscript for compressing or reducing the size of PDF files. Available for Windows and Linux. 
 img: assets/pdf/pdfshrinker/pdfs-cover.png
 importance: 3
 category: software
@@ -10,6 +10,7 @@ category: software
 ### 📜 About PDF Shrinker
 
 PDF Shrinker is a minimalistic and easy to use GUI app for compressing or reducing the size of PDF files. It works on top of Ghostscript which needs to be installed on the user computer for PDFShrinker to work. Ghostscript is open source and is free for non-commercial use.
+
 PDF Shrinker can do the following: 
  
 - Compress PDFs or reduce the size of the PDF
@@ -17,11 +18,14 @@ PDF Shrinker can do the following:
 - Convert coloured PDFs to Grayscale
 - Flatten PDFs
 
-### 🧭 Visit the Project Page to Download and Install 
+### 🧭 Visit the Project Page to Download and Install PDF Shrinker
 
 Please visit the project page on Github for software download for Windows, Ubuntu/Linux Mint/MX Linux/Debian Linux distributions, RHEL/Fedora Linux distributions, documentation and help on how to use this software. 
 
-https://github.com/chinmayasrathore/pdf-shrinker
+👉 [PDF Shrinker Project Page](https://github.com/chinmayasrathore/pdf-shrinker)
+
+
+PDF Shrinker is free and open source under the [MIT License](https://github.com/chinmayasrathore/pdf-shrinker#MIT-1-ov-file). 
 
 
 ***
