@@ -15,7 +15,7 @@ PDF Shrinker can do the following:
  
 - Compress PDFs or reduce the size of the PDF
 - Alter PDF Compatibility
-- Convert coloured PDFs to Grayscale
+- Convert coloured PDFs to Gray scale
 - Flatten PDFs
 
 ### 🧭 Visit the Project Page to Download and Install PDF Shrinker
