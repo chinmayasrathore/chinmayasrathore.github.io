@@ -12,10 +12,9 @@ stars: 5
 status: reading
 ---
 
-***
+
 > ### ⬇️ Download Book Exercise File Packet (ZIP) for 'Try it Yourself' Exercises in the Book
 > 👉 [Click here to download Exercise File Packet as a Zip File](/assets/pdf/adb_exercises.zip)
-
 
 ***
 > ### ❌ Errata Page
