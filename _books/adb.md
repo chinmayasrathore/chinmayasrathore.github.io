@@ -16,6 +16,7 @@ status: reading
 > ### ⬇️ Download Book Exercise File Packet (ZIP) for 'Try it Yourself' Exercises in the Book
 > 👉 [Click here to download Exercise File Packet as a Zip File](/assets/pdf/adb_exercises.zip)
 
+
 ***
 > ### ❌ Errata Page
 > The errata page is current and is updated as soon as some issue is spotted.
@@ -73,6 +74,8 @@ Packed with clear explanations, step-by-step instructions, and practical exercis
 The following *Playlist on YouTube* supplements the contents of the book and should be helpful to learn and use AsciiDoc. I plan to keep adding videos so be sure to revist this playlist for new videos. 
 
 [![AsciiDoc for Beginners Tutorial Playlist](/assets/img/adbpl.png)](https://www.youtube.com/watch?v=cWKUo3xUXlo&list=PLKR_CvN6SDJj3kW6_BHM0L6cEz8kRphrh)
+
+Will be posting more videos in the playlist. Please revisit. 
 
 
 
