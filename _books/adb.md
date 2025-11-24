@@ -18,6 +18,14 @@ status: reading
 
 ***
 
+### ❌ Errata Page
+
+The errata page is current and is updated as soon as some issue is spotted.
+
+👉 [Download Errata Page](/assets/pdf/adb-errata.pdf)
+
+***
+
 ### 📘 Book Available Internationally on Amazon
 
 ***India (Paperback and eBook- Kindle Amazon)***
@@ -69,13 +77,7 @@ The following *Playlist on YouTube* supplements the contents of the book and sho
 
 [![AsciiDoc for Beginners Tutorial Playlist](/assets/img/adbpl.png)](https://www.youtube.com/watch?v=cWKUo3xUXlo&list=PLKR_CvN6SDJj3kW6_BHM0L6cEz8kRphrh)
 
-### ❌ Errata Page
 
-The errata page is current and is updated as soon as some issue is spotted.
-
-👉 [Download Errata Page](/assets/pdf/adb-errata.pdf)
-
-***
 
 
 
