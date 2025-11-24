@@ -73,6 +73,7 @@ You can learn how to install and use PDF Shrinker for with the following 'get-st
             ▶️ Compress PDFs with PDF Shrinker
         </div>
     </div>
+</div>
 
 
 
