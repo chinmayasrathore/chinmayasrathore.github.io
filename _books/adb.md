@@ -17,7 +17,6 @@ status: reading
 > 👉 [Click here to download Exercise File Packet as a Zip File](/assets/pdf/adb_exercises.zip)
 
 ***
-
 > ### ❌ Errata Page
 > The errata page is current and is updated as soon as some issue is spotted.
 > 👉 [Download Errata Page](/assets/pdf/adb-errata.pdf)
