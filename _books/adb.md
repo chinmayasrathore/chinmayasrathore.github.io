@@ -19,9 +19,7 @@ status: reading
 ***
 
 > ### ❌ Errata Page
-
 > The errata page is current and is updated as soon as some issue is spotted.
-
 > 👉 [Download Errata Page](/assets/pdf/adb-errata.pdf)
 
 ***
